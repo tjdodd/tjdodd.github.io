@@ -10,4 +10,6 @@ This Blog will be the home of updates on my work, events I attend and anything e
 
 ### Contact me
 
-[email@domain.com](mailto:doddjthomas@gmail.com)
+[email](mailto:doddjthomas@gmail.com)
+[twitter](twitter.com/eldritchLupin)
+[youtube](#)
