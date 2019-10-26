@@ -6,10 +6,10 @@ published: true
 Welcome to my first *real* blog. I've been wanting to get good at drawing the body, so I decided to practice drawing it without reference. In past practice I've sort of figured out the shapes that make it up so I wanted to try to apply that.
 
 Here are my most sucessful attempts:
-![]({{site.baseurl}}/images/body1.png)
-![]({{site.baseurl}}/images/bodysketch1.png)
-![]({{site.baseurl}}/images/body2.png)
-![]({{site.baseurl}}/images/bodysketch2.png)
+![](https://i.imgur.com/A0uYzBA.png)
+![](https://i.imgur.com/RwlpPy2.png)
+![](https://i.imgur.com/nVVvyMf.png)
+![](https://i.imgur.com/W2sZkL2.png)
 
 I'm aware that failing is part of the process, but there's still something inherently embarrasing about it. There's at least 2 full photoshop pages of 'failure' before these successful attempts.
 
