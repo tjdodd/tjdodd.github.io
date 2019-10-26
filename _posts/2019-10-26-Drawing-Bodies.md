@@ -19,4 +19,4 @@ The second technique is an amalgamation of multiple short tutorials I found on t
 
 I'm by no means an expert in this, or nearly as good as I want to be, but hopefully doing this practice regularly will enable me to finally figure this out, and maybe even get a unique style. I'm still just starting out.
 
-If anyone is reading this and has any tips on how to improve, feel free to comment it. (If that's an option, I'm still figuring this out.)
+If anyone is reading this and has any tips on how to improve, feel free to eMail me. Have a great day!
