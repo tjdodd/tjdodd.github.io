@@ -9,7 +9,7 @@ name: Tom Dodd
 description: Student in Game Design, Animation & VFX.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/pfp.PNG
+avatar: ./images/pfp.PNG
 
 #
 # Flags below are optional
